@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hra_Touille_2023:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hra_Touille_2023_jar</output-path>
+    <root id="archive" name="Hra_Touille_2023.jar">
+      <element id="module-output" name="Hra_Touille_2023" />
+    </root>
+  </artifact>
+</component>
